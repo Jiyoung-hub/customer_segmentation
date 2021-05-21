@@ -251,7 +251,7 @@ sympy==1.5.1
 tables==3.6.1
 tb-nightly==1.15.0a20190806
 tblib==1.6.0
-tensorflow==2.0.0rc1
+tensorflow==2.5.0rc0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
