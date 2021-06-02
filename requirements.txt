@@ -263,7 +263,7 @@ traitlets==4.3.3
 typing-extensions==3.7.4.1
 ujson==1.35
 unicodecsv==0.14.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.15
 virtualenvwrapper-win==1.2.6
 visJS2jupyter==0.1.16
